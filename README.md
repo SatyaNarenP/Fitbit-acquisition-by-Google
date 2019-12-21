@@ -1,4 +1,7 @@
 # Fitbit-acquisition-by-Google
+### Team: Neha Anna John, Rawini Dias, Chris Henson, Sadhana Koneni, Satya Naren Pachigolla
+
+
 Look at the slide deck in this repository for a summary of our findings
 
 
