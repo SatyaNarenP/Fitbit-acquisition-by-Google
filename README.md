@@ -1,4 +1,5 @@
 # Fitbit-acquisition-by-Google
+Look at the slide deck in this repository for a summary of our findings
 
 
 ## Overview:
