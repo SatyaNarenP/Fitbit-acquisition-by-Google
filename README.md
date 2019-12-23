@@ -11,7 +11,7 @@ Google announced that they are planning to acquire 'Fitbit' on 1st November,2019
 
 In our project, we looked at the customer discussions/perceptions about Fitbit before the acquisition news was announced and then tracked them along the way.
 
-Follwing are the steps we followed for this project : 
+Following are the steps we followed for this project : 
 
 ### Data Collection:
 
